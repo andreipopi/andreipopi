@@ -2,25 +2,22 @@
 
 I'm an AI researcher interested in enhancing reasoning of LLMs. My research so far has focused on computational argumentation and algorithms for formal reasoning, particularly on exploiting structural properties to make complex reasoning tasks more tractable through tree decompositions, dynamic programming, and decomposition-based algorithms.
 
-[Personal website](https://andreipopi.github.io/a-p-research) · [LinkedIn](https://www.linkedin.com/in/andrei-popescu) · [DBLP](https://dblp.org/pid/231/4051) · [Research code](https://gitlab.tugraz.at/krr) · [Email](mailto:andrei-popescu@outlook.com)
+[DBLP](https://dblp.org/pid/231/4051) · [Research code](https://gitlab.tugraz.at/krr) · [LinkedIn](https://www.linkedin.com/in/andrei-popescu) · [Personal website](https://andreipopi.github.io/a-p-research) · [Email](mailto:andrei-popescu@outlook.com)
 
 ## 🎓 Education
 
-- **Ph.D. in Computer Science**, Graz University of Technology (July 2026)
-- **M.Sc. in Artificial Intelligence**, Utrecht University (August 2019)
-- **B.Sc. in Computer Science and Engineering**, Free University of Bolzano (July 2017)
+- **PhD in Computer Science**, Graz University of Technology, Graz, Austria (July 2026)
+- **MSc in Artificial Intelligence**, Utrecht University, Utrecht, the Netherlands (August 2019)
+- **BSc in Computer Science and Engineering**, Free University of Bolzano, Bolzano, Italy (July 2017)
 
 ## 💼 Employment
 
 - **Research Engineer**, Ghent University (2021-2022)
   - Built reasoning and data-processing prototypes for decentralized knowledge graphs, including linked-data indexing, forward and backward chaining, decentralized querying, and schema alignment.
-
 - **Research Associate**, Graz University of Technology (2020-2021)
   - Investigated machine-learning-based heuristics for constraint-solver performance, including variable and value ordering.
-
 - **Research Assistant**, Fraunhofer Italia (2017)
   - Developed the company's first Android mixed-reality prototype for delivering context-aware information to construction-site workers and managers.
-
 - **Project Intern**, Free University of Bolzano (2016)
   - Developed a Java tool for automatically verifying user-defined properties of cellular automata.
 
@@ -34,7 +31,7 @@ Code and experimental artifacts for my main publications are available in the [T
 - Lab Assistant for **Linked Data and Web Scraping** at Ghent University (2022).
 - Reviewer for **IJAR 2025**, **COMMA 2024**, and **TKR 2025**.
 - Assisted with result verification for the **ICCMA 2025** competition.
-- Co-supervised four M.Sc. thesis projects on knowledge-graph applications at Ghent University (2021-2022).
+- Co-supervised four MSc thesis projects on knowledge-graph applications at Ghent University (2021-2022).
 
 ## 🛠️ Technical Skills
 
