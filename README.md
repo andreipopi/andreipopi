@@ -12,7 +12,7 @@ I'm an AI researcher interested in developing algorithms that improve the reason
 
 ## 💻 Research Code
 
-Code and experimental artifacts for my main publications are available in the [TU Graz Knowledge Representation and Reasoning (KRR) GitLab group](https://gitlab.tugraz.at/krr). My complete publication list is available on [DBLP](https://dblp.org/pid/231/4051).
+Code and prototypes for my main publications are available in the [TU Graz Knowledge Representation and Reasoning (KRR) GitLab group](https://gitlab.tugraz.at/krr). My complete publication list is available on [DBLP](https://dblp.org/pid/231/4051).
 
 ## 🧑‍🏫 Service, Outreach & Teaching
 
