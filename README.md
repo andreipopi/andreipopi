@@ -24,8 +24,8 @@ Code and prototypes for my main publications are available in the [TU Graz Knowl
 
 ## 🛠️ Technical Skills
 
-- **Research and Algorithms:** Formal reasoning, computational argumentation, probabilistic reasoning, algorithmic verification, tree decompositions, dynamic programming, parameterized complexity, exact algorithms, preprocessing, search algorithms
-- **Programming:** Python, Java, ASP (answer set programming), JavaScript/TypeScript, C#, SQL
+- **Research and Algorithms:** Formal reasoning, computational argumentation, probabilistic reasoning, algorithmic verification, tree decompositions, dynamic programming, preprocessing, search algorithms
+- **Programming:** Python, Java, ASP (answer set programming), JavaScript/TypeScript, C#
 - **Tools and Libraries:** Linux, Git, LaTeX, VS Code, Google Colab, RDF, SQL/Postgres, Protégé, Clingo, MiniZinc, PyTorch, Matplotlib, pandas
 
 ## 💼 Employment
