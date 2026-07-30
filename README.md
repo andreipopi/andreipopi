@@ -1,6 +1,6 @@
 # Andrei Popescu
 
-I'm an AI researcher interested in developing algorithms that improve the reasoning capabilities of language models. My research so far has focused on computational argumentation and algorithms for formal reasoning, particularly on exploiting structural properties to make complex reasoning tasks more tractable through tree decompositions, dynamic programming, and decomposition-based algorithms.
+I'm an AI researcher interested in developing algorithms that improve the reasoning capabilities of language models. My research so far has focused on computational argumentation and algorithms for formal reasoning, particularly on exploiting structural properties to make complex reasoning tasks more tractable via decomposition-based algorithms on tree decompositions.
 
 [DBLP](https://dblp.org/pid/231/4051) · [Research code](https://gitlab.tugraz.at/krr) · [LinkedIn](https://www.linkedin.com/in/andrei-popescu) · [Personal website](https://andreipopi.github.io/a-p-research) · [Email](mailto:andrei-popescu@outlook.com)
 
