@@ -14,7 +14,7 @@ I'm an AI researcher interested in developing algorithms that improve the reason
 
 Code and prototypes for my main publications are available in the [TU Graz Knowledge Representation and Reasoning (KRR) GitLab group](https://gitlab.tugraz.at/krr). My complete publication list is available on [DBLP](https://dblp.org/pid/231/4051).
 
-## 🧑‍🏫 Service, Outreach & Teaching
+## 🧑‍🏫 Service & Teaching
 
 - Lab Assistant for **Logic-Based Knowledge Representation and Reasoning** at Graz University of Technology (2023-2025).
 - Lab Assistant for **Linked Data and Web Scraping** at Ghent University (2022).
