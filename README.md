@@ -14,6 +14,8 @@ I'm an AI researcher interested in developing algorithms that improve the reason
 
 Code and prototypes for my main publications are available in the [TU Graz Knowledge Representation and Reasoning (KRR) GitLab group](https://gitlab.tugraz.at/krr). My complete publication list is available on [DBLP](https://dblp.org/pid/231/4051).
 
+
+<!--
 ## 🧑‍🏫 Service & Teaching
 
 - Lab Assistant for **Logic-Based Knowledge Representation and Reasoning** at Graz University of Technology (2023-2025).
@@ -22,12 +24,16 @@ Code and prototypes for my main publications are available in the [TU Graz Knowl
 - Assisted with result verification for the **ICCMA 2025** competition.
 - Co-supervised four MSc thesis projects on knowledge-graph applications at Ghent University (2021-2022).
 
+-->
+
 ## 🛠️ Technical Skills
 
 - **Research and Algorithms:** Formal reasoning, computational argumentation, probabilistic reasoning, algorithmic verification, tree decompositions, dynamic programming, preprocessing, search algorithms
 - **Programming:** Python, Java, ASP (answer set programming), JavaScript/TypeScript, C#
 - **Tools and Libraries:** Linux, Git, LaTeX, VS Code, Google Colab, RDF, SQL/Postgres, Protégé, Clingo, MiniZinc, PyTorch, Matplotlib, pandas
 
+
+<!--
 ## 💼 Employment
 
 - **Research Engineer**, Ghent University (2021-2022)
@@ -39,7 +45,7 @@ Code and prototypes for my main publications are available in the [TU Graz Knowl
 - **Project Intern**, Free University of Bolzano (2016)
   - Developed a Java tool for automatically verifying user-defined properties of cellular automata.
  
-  
+-->
 <!--
 **andreipopi/andreipopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
