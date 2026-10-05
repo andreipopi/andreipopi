@@ -26,11 +26,6 @@ Code and prototypes for my main publications are available in the [TU Graz Knowl
 
 -->
 
-## 🛠️ Technical Skills
-- **Programming:** Python, Java, ASP (answer set programming), TypeScript, C#
-- **Tools:** Linux, Git, LaTeX, VS Code, Google Colab, RDF, SQL/Postgres, Protégé, Clingo, MiniZinc
-- **Libraries:** pandas, Matplotlib, NumPy, PyTorch
-
 <!--
 ## 💼 Employment
 
