@@ -4,9 +4,9 @@ I'm an AI researcher interested in developing algorithms that improve the reason
 
 ## 🎓 Education
 
-- **PhD in Computer Science**, Graz University of Technology, Graz, Austria (July 2026)
-- **MSc in Artificial Intelligence**, Utrecht University, Utrecht, the Netherlands (August 2019)
-- **BSc in Computer Science and Engineering**, Free University of Bolzano, Bolzano, Italy (July 2017)
+- **PhD in Computer Science**, Graz University of Technology, Graz, Austria (2026)
+- **MSc in Artificial Intelligence**, Utrecht University, Utrecht, the Netherlands (2019)
+- **BSc in Computer Science and Engineering**, Free University of Bolzano, Bolzano, Italy (2017)
 
 ## 💻 Research Code
 
