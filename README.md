@@ -1,6 +1,6 @@
 # Andrei Popescu
 
-I'm an AI researcher interested in developing algorithms that improve the reasoning capabilities of language models. My research so far has focused on computational argumentation and algorithms for formal reasoning, particularly on exploiting structural properties to make complex reasoning tasks more tractable via decomposition-based algorithms on tree decompositions.
+I'm an AI researcher interested in algorithmic approaches for improving reasoning in language models. My research has focused on computational argumentation and algorithms for formal reasoning, particularly on exploiting structural properties to make complex reasoning tasks more tractable via decomposition-based algorithms on tree decompositions.
 
 ## 🎓 Education
 
